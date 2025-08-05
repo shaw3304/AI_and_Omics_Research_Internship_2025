@@ -73,3 +73,4 @@ levels(data$smoker_binary_var)#"0" "1"
 # Save your R script in your script folder with name "class_Ib"
 
 write.csv(data,"clean_data/patient_info_clean.csv")
+save.image(file = "Pallabishaw_Class_Ib_Assignment.RData")
